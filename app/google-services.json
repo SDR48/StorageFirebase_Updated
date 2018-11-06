@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "920932334121",
+    "firebase_url": "https://storagefirebase-4eca2.firebaseio.com",
+    "project_id": "storagefirebase-4eca2",
+    "storage_bucket": "storagefirebase-4eca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920932334121:android:584de8b808698c11",
+        "android_client_info": {
+          "package_name": "com.myapps.sdr.storagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920932334121-4onq10jb9sa89kl3hjl1sp5bu6mg5ion.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgX8wZg4g8jzGKYq7HhIr2jeLFRCfrNfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

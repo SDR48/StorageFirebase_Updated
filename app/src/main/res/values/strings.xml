@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StorageFirebase</string>
+    <string name="upload_a_file">Upload Image</string>
+    <string name="upload_any_file">Upload any File</string>
+    <string name="select_file_from_sd_card">Select file from sd card</string>
+    <string name="no_file_selected">No File Selected</string>
+    <string name="retrieve_image">Fetch files</string>
+    <string name="save_as">Save As....</string>
+    <string name="textview">TextView</string>
+</resources>
